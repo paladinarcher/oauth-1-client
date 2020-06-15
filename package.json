@@ -20,7 +20,7 @@
   "dependencies": {
     "debug": "^2.1.3",
     "extend-error": "0.0.2",
-    "oauth": "^0.9.12",
+    "oauth": "github:paladinarcher/node-oauth",
     "promise": "^6.1.0",
     "request": "^2.55.0"
   },
